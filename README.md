@@ -22,7 +22,7 @@
 ## Script
 
 | Script |
-| ---- |
+| ------ |
 | [AnduinOS Lxqt Config](https://github.com/samwhelp/anduinos-lxqt-adjustment/tree/main/prototype/main/lxqt-config/full/Main) |
 | [Tool Config](https://github.com/samwhelp/anduinos-adjustment/tree/main/prototype/main/tool-config/part) |
 
